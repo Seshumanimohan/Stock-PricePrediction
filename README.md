@@ -1,0 +1,2 @@
+# Stock-PricePrediction
+The Stock Price Prediction project aims to create a predictive model that can forecast the future closing prices of a specific stock based on historical price data and relevant features. Predicting stock prices accurately is a challenging task due to the complexity of financial markets, but it can be valuable for investors, traders, and financial analysts to make informed decisions.
